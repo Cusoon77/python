@@ -1,4 +1,4 @@
-#10)find the area of a circle when the user gives the radius
+
 
 r = float(input("Enter the radius of the circle : "))
 
