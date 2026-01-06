@@ -1,4 +1,3 @@
-#sreehari c
 #3)count the occurrence of each word in a line of text
 
 text = "The cat and the dog and the cat"
